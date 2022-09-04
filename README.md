@@ -1,25 +1,28 @@
-[![Open in GitPod](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://ganeshpatil-responsivel-yj8czfkqfsi.ws-us63.gitpod.io//)
+[![Open in GitPod](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://ganeshpatil-filemanagem-ck3hacctkko.ws-us63.gitpod.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 > **Note**
 >
-> - To add your contributons check `new.py` python file .
+> - To add your contributons check `main.py` python file .
 > - To add new features use python libraries.
 
 
-# Static Login Application Python
+
+# File Management System
 
 
 - Responsive window.
-- Authentication login window. 
-- User Authentication using pyhton.
+- User Authentication login window. 
+- File Management application.
 
-![Program_Workspace](https://user-images.githubusercontent.com/59861179/188319393-63651d23-4791-40bb-ab72-92f6f4850841.gif)
+![Code_Workspace](https://user-images.githubusercontent.com/59861179/188320430-ed9730fe-40ae-4f18-983f-1df3c1b1a763.gif)
+
 
 
 ## Gitpod Workspace Example 👨‍💻 
 
-![Gitpod_Workspace](https://user-images.githubusercontent.com/59861179/188319135-3e9616ed-7cc3-422d-b634-8a9d700bd359.gif)
+
+![Gitpod_Wokspace](https://user-images.githubusercontent.com/59861179/188320460-d789c1bf-d6ef-480a-89d9-3e825316c809.gif)
 
 ## 👇 Prerequisites
 - [Git](https://git-scm.com/downloads)
@@ -29,7 +32,7 @@
 
 1. Fork the project
 2. Clone the project
-3. Navigate to the project directory `cd Responsive-Login-Window-Python`
+3. Navigate to the project directory `cd File-Management-System`
 4. Install packages with `pip install <package name>` 
 5. Run 
 
